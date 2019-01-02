@@ -3,7 +3,7 @@ If you just have a **MacBook**.DeepFaceLab **GPU** mode does not works. However,
 
 ### 1. Open a new terminal and Clone DeepFaceLab with git
 ```
-$ git git@github.com:iperov/DeepFaceLab.git
+$ git git@github.com:Pluckypan/DeepFaceLab.git
 ```
 
 ### 2. Change the directory to DeepFaceLab
